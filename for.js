@@ -21,7 +21,7 @@ for(let i = 0; i < week.length; i++) {
     // days = days + 1
     console.log(week[i]);
     if(i==4){
-        console.log("It's Friday!  Have a nice weekend!");
+        console.log("It's Friday!  Have a nice weekend friends!");
     }
     if(i>4){
         console.log("It's the weekend!");
