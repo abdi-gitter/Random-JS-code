@@ -1,4 +1,4 @@
-// Tea brewing instructions:
+// Tea brewing instructions: Algorithm
 // find ingredients/tools:
     // find pot
     // find tea
