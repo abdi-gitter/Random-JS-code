@@ -1,4 +1,4 @@
-//  Find biweekly pay after tax for Mary
+//  Find biweekly pay after tax for Abdisa
 
 // Input hourly rate
 // store rate from input
