@@ -1,9 +1,11 @@
 // Tea brewing instructions: Algorithm
 // find ingredients/tools:
+
     // find pot
     // find tea
     // find tea bags/tea clamp
     // find honey
+
 // fill pot with 16oz water
 // place pot on stove right side up without spilling water
 // turn stove burner with pot full of water on high
