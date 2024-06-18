@@ -1,3 +1,4 @@
+// for loop
 let days = 0;
 const week = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
 // length = 7
