@@ -1,3 +1,4 @@
+// if else in js
 const number = 396
 
 if(number>400){
