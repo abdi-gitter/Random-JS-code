@@ -1,3 +1,4 @@
+//while loop in js
 let apples = 5
 let oranges = 10
 
